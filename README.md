@@ -5,7 +5,7 @@ A source of funny time (OwO)
 For my [nanoCatOwO](github.com/nanoCatOWO).
 
 ### Codefights
-To practice follow <codefights.com>.
+To practice follow [this](.../codefights.com).
 
 ### CodeForces
 To practice follow [this](codeforces.com), with __nanoCat__.
